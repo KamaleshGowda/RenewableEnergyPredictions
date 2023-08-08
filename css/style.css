@@ -181,9 +181,9 @@ html{
   color: #e4cfc7;
   white-space: nowrap;
 }
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   .slider_section .container h1 {
-    font-size: 38px;
+    font-size: 25px;
   }
 }
 
